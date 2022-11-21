@@ -17,17 +17,13 @@ There are additional resources you can access to get help and find more informat
 
 == Astra
 
-* https://docs.netapp.com/us-en/astra-control-center/[Astra Control Center documentation^]
+* https://docs.netapp.com/us-en/astra-control-center-2208/[Astra Control Center 22.08 documentation^]
 +
 Documentation for the current release of the Astra Control Center software deployed on the customer premises.
 
 * https://docs.netapp.com/us-en/astra-control-service/[Astra Control Service documentation^]
 +
 Documentation for the current release of the Astra Control Service software available in the public cloud.
-
-* https://docs.netapp.com/us-en/astra-data-store/[Astra Data Store documentation^]
-+
-Documentation for the current release of the Astra Data Store software deployed on the customer premises.
 
 * https://docs.netapp.com/us-en/trident/[Astra Trident documentation^]
 +
@@ -39,7 +35,7 @@ Central location for accessing all the Astra documentation for both on-premises 
 
 == NetApp cloud resources
 
-* https://cloud.netapp.com/[NetApp Cloud Solutions^]
+* https://bluexp.netapp.com/[NetApp BlueXP^]
 +
 Central site for the NetApp cloud solutions.
 
